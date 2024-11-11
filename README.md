@@ -77,7 +77,6 @@ The subscriber script will display a cumulative message count to confirm it rece
 - Publisher Sending Messages
 - Verification of Message Count
 
-## PDF Instructions
-For detailed steps, download the PDF file with complete setup and execution instructions:
+
 
 
